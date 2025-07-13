@@ -12,9 +12,9 @@ A full-stack web application to manage personal notes — create, view, and dele
 ---
 
 ## 🖼️ Preview
-<img width="1920" height="873" alt="image" src="https://github.com/user-attachments/assets/2438f603-7b86-44e7-97d6-7b39b5653140" />
-<img width="1920" height="932" alt="image (1)" src="https://github.com/user-attachments/assets/13a8a1a7-f8b0-4577-8c60-ba9e1a9fddf1" />
-<img width="1920" height="872" alt="image (2)" src="https://github.com/user-attachments/assets/e5487b0c-9212-4d2e-92f6-4606222d2c6f" />
+<img width="1920" height="873" alt="image" src="https://github.com/user-attachments/assets/5978debf-39e5-4da7-86de-df1275f1c773" />
+<img width="1920" height="932" alt="image (1)" src="https://github.com/user-attachments/assets/629a5a44-7983-4c47-9226-d3e77c3fbbda" />
+<img width="1920" height="872" alt="image (2)" src="https://github.com/user-attachments/assets/9031dfe1-7b5f-473d-b681-1355e3ada15d" />
 
 
 
